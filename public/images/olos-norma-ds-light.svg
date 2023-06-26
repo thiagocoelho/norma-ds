@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="110" height="24" viewBox="0 0 110 24">
+  <g id="Grupo_521" data-name="Grupo 521" transform="translate(-24 -24)">
+    <text id="olos.live" transform="translate(56 43)" font-size="20" font-family="Ubuntu" ><tspan x="0" y="0">olos.</tspan><tspan y="0" font-family="Ubuntu-Bold, Ubuntu" font-weight="700">live</tspan></text>
+    <g id="Grupo_474" data-name="Grupo 474" transform="translate(-5 -9)">
+      <rect id="Retângulo_1912" data-name="Retângulo 1912" width="24" height="24" transform="translate(29 33)" fill="transparent"/>
+      <g id="cloud" transform="translate(29 36)">
+        <path id="cloud-2" data-name="cloud" d="M16.012,21.481q.132,0,.265,0A8.743,8.743,0,1,0,9.452,7.279H8.123a7.1,7.1,0,0,0,0,14.207h7.65Q15.893,21.485,16.012,21.481Zm2.135-2.487a6.771,6.771,0,0,0,4.688-6.252,6.557,6.557,0,0,0-13.114,0H7.534A8.718,8.718,0,0,1,8.17,9.464H8.123a4.918,4.918,0,0,0,0,9.836h7.65A11.688,11.688,0,0,0,18.146,18.995Z" transform="translate(-1.019 -4)" fill="#fc7f11" fill-rule="evenodd"/>
+      </g>
+    </g>
+  </g>
+</svg>
