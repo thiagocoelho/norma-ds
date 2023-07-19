@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="252.33" height="252.329" viewBox="0 0 252.33 252.329">
+  <g id="headphone" transform="translate(10 10)">
+    <g id="Icon" transform="translate(-7.004 -13)">
+      <g id="Icon_feather-headphones" data-name="Icon feather-headphones" transform="translate(7.004 13)">
+        <path id="Caminho_1930" data-name="Caminho 1930" d="M4.5,215.111V130.866C4.5,61.076,56.509,4.5,120.665,4.5S236.829,61.076,236.829,130.866v84.244" transform="translate(-4.5 -4.5)" fill="none" stroke="#333" stroke-linecap="round" stroke-linejoin="round" stroke-width="20"/>
+        <path id="Caminho_1931" data-name="Caminho 1931" d="M236.829,57.2c0,8-11.557,14.479-25.814,14.479H198.108c-14.257,0-25.814-6.483-25.814-14.479V35.479c0-8,11.557-14.479,25.814-14.479h38.722ZM4.5,57.2c0,8,11.557,14.479,25.814,14.479H43.222c14.257,0,25.814-6.483,25.814-14.479V35.479c0-8-11.558-14.479-25.814-14.479H4.5Z" transform="translate(-4.5 160.652)" fill="none" stroke="#333" stroke-linecap="round" stroke-linejoin="round" stroke-width="20"/>
+      </g>
+    </g>
+  </g>
+</svg>

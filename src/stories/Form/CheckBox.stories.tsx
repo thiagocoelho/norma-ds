@@ -1,5 +1,5 @@
 import React from "react";
-import { ComponentStory, ComponentMeta } from "@storybook/react";
+import { Story, Meta } from "@storybook/react";
 import CheckBox from '../../components/Form/CheckBox';
 import { Box, Typography, FormGroup, FormControlLabel } from '@mui/material';
 import { pink } from '@mui/material/colors';
@@ -7,9 +7,9 @@ import { pink } from '@mui/material/colors';
 export default {
   title: "Form/CheckBox",
   component: CheckBox,
-};
+} as Meta;
 
-const Template: ComponentStory<typeof CheckBox> = (args) => <CheckBox {...args} />;
+const Template: Story<typeof CheckBox> = (args) => <CheckBox {...args} />;
 
 const defaultArgs = {};
 
@@ -20,7 +20,7 @@ Playground.args = {
 
 const label = { inputProps: { 'aria-label': 'Checkbox demo' } };
 
-export const Basic: ComponentStory<typeof CheckBox> = () => (
+export const Basic: Story<typeof CheckBox> = () => (
   <>
     <Typography variant='h4'>Basic CheckBox</Typography>
     <Typography variant='body1'>Checkboxes can be used to turn an option on or off.
@@ -39,7 +39,7 @@ If you have multiple options appearing in a list, you can preserve space by usin
 
 Basic.storyName = 'Basic TextField';
 
-export const Label: ComponentStory<typeof CheckBox> = () => (
+export const Label: Story<typeof CheckBox> = () => (
   <>
     <Typography variant='h4'>Label</Typography>
     <Typography variant='body1'>You can provide a label to the Checkbox thanks to the FormControlLabel component.</Typography>
@@ -55,7 +55,7 @@ export const Label: ComponentStory<typeof CheckBox> = () => (
   </>
 );
 
-export const Size: ComponentStory<typeof CheckBox> = () => (
+export const Size: Story<typeof CheckBox> = () => (
   <>
     <Typography variant='h4'>Size</Typography>
     <Typography variant='body1'>Use the size prop or customize the font size of the svg icons to change the size of the checkboxes.</Typography>
@@ -73,7 +73,7 @@ export const Size: ComponentStory<typeof CheckBox> = () => (
   </>
 );
 
-export const Color: ComponentStory<typeof CheckBox> = () => (
+export const Color: Story<typeof CheckBox> = () => (
   <>
     <Typography variant='h4'>Color</Typography>
       <Box

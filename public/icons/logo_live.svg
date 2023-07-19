@@ -1,0 +1,9 @@
+<svg id="logo_live" xmlns="http://www.w3.org/2000/svg" width="253" height="56" viewBox="0 0 253 56">
+  <text id="olos.live" transform="translate(75 43)" font-size="46" font-family="Ubuntu"><tspan x="0" y="0">olos.</tspan><tspan y="0" font-family="Ubuntu-Bold, Ubuntu" font-weight="700">live</tspan></text>
+  <g id="Grupo_474" data-name="Grupo 474">
+    <rect id="Retângulo_1912" data-name="Retângulo 1912" width="56" height="56" transform="translate(0)" fill="#fff"/>
+    <g id="cloud" transform="translate(0 7)">
+      <path id="cloud-2" data-name="cloud" d="M36,44.79q.308.009.619.009A20.4,20.4,0,1,0,20.694,11.65h-3.1a16.575,16.575,0,0,0,0,33.149h17.85Q35.724,44.8,36,44.79Zm4.981-5.8c5.993-1.96,10.938-7.751,10.938-14.588a15.3,15.3,0,0,0-30.6,0h-5.1A20.342,20.342,0,0,1,17.7,16.75h-.109a11.475,11.475,0,0,0,0,22.95h17.85A27.272,27.272,0,0,0,40.982,38.988Z" transform="translate(-1.019 -4)" fill="#fc7f11" fill-rule="evenodd"/>
+    </g>
+  </g>
+</svg>

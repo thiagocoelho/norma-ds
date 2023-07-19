@@ -1,0 +1,5 @@
+<svg id="ic_sentiment_dissatisfied" xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256">
+  <circle id="Elipse_31" data-name="Elipse 31" cx="28" cy="28" r="28" transform="translate(152.355 72)" fill="#333"/>
+  <circle id="Elipse_32" data-name="Elipse 32" cx="28" cy="28" r="28" transform="translate(47.645 72)" fill="#333"/>
+  <path id="Caminho_109" data-name="Caminho 109" d="M129.872,2A128,128,0,1,0,258,130,127.937,127.937,0,0,0,129.872,2ZM130,232.4A102.4,102.4,0,1,1,232.4,130,102.372,102.372,0,0,1,130,232.4Zm0-76.8a70.338,70.338,0,0,0-65.536,44.8H85.84a50.888,50.888,0,0,1,88.32,0h21.376A70.338,70.338,0,0,0,130,155.6Z" transform="translate(-2 -2)" fill="#333"/>
+</svg>
