@@ -1,0 +1,127 @@
+import { Meta, ColorPalette, ColorItem } from '@storybook/blocks';
+import { palette } from "../helpers"
+
+<Meta title="Documentation/Colors" />
+
+<ColorPalette>
+  <ColorItem
+    title="Primary"
+    subtitle="Color primary default to project"
+    colors={{ Primary: palette.primary }} 
+  />
+  <ColorItem
+    title="Primary variant colors"
+    subtitle="Variants colors primary"
+    colors={{
+      PrimaryLight: palette.primaryLight,
+      PrimaryMedium: palette.primaryMedium,
+      PrimaryDark: palette.primaryDark,
+    }}
+  />
+
+  <ColorItem
+    title="Secondary"
+    subtitle="Color secondary"
+    colors={{ Secondary: palette.secondary }} 
+  />
+  <ColorItem
+    title="Secondary variant colors"
+    subtitle="Variants colors secondary"
+    colors={{
+      SecondaryLight: palette.secondaryLight,
+      SecondaryMedium: palette.secondaryMedium,
+      SecondaryDark: palette.secondaryDark,
+    }}
+  />
+
+  <ColorItem
+    title="Inherit"
+    subtitle="Color inherit"
+    colors={{ Inherit: palette.inherit }} 
+  />
+  <ColorItem
+    title="Inherit variant colors"
+    subtitle="Variants colors inherit"
+    colors={{
+      InheritLight: palette.inheritLight,
+      InheritMedium: palette.inheritMedium,
+      InheritDark: palette.inheritDark,
+    }}
+  />
+
+  <ColorItem
+    title="White"
+    subtitle="Color white"
+    colors={{ White: palette.white }} 
+  />
+  <ColorItem
+    title="White variant colors"
+    subtitle="Variants colors white"
+    colors={{
+      WhiteLight: palette.whiteLight,
+      WhiteMedium: palette.whiteMedium,
+      WhiteDark: palette.whiteDark,
+    }}
+  />
+
+  <ColorItem
+    title="Success"
+    subtitle="Color success"
+    colors={{ Success: palette.success }} 
+  />
+  <ColorItem
+    title="Success variant colors"
+    subtitle="Variants colors success"
+    colors={{
+      SuccessLight: palette.successLight,
+      SuccessMedium: palette.successMedium,
+      SuccessDark: palette.successDark,
+    }}
+  />
+
+  <ColorItem
+    title="Error"
+    subtitle="Color error"
+    colors={{ Error: palette.error }} 
+  />
+  <ColorItem
+    title="Error variant colors"
+    subtitle="Variants colors error"
+    colors={{
+      ErrorLight: palette.errorLight,
+      ErrorMedium: palette.errorMedium,
+      ErrorDark: palette.errorDark,
+    }}
+  />
+
+  <ColorItem
+    title="Warning"
+    subtitle="Color warning"
+    colors={{ Warning: palette.warning }} 
+  />
+  <ColorItem
+    title="Warning variant colors"
+    subtitle="Variants colors warning"
+    colors={{
+      WarningLight: palette.warningLight,
+      WarningMedium: palette.warningMedium,
+      WarningDark: palette.warningDark,
+    }}
+  />
+
+  <ColorItem
+    title="Helper"
+    subtitle="Color helper"
+    colors={{ Helper: palette.helper }} 
+  />
+  <ColorItem
+    title="Helper variant colors"
+    subtitle="Variants colors helper"
+    colors={{
+      HelperLight: palette.helperLight,
+      HelperMedium: palette.helperMedium,
+      HelperDark: palette.helperDark,
+    }}
+  />
+  
+</ColorPalette>
