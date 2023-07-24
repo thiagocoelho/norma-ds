@@ -1,6 +1,11 @@
+
+
+export type IconsColors = 'inherit' | 'primary' | 'secondary' | 'error' | 'info' | 'success' | 'warning' | 'white' | 'black';
+export type BtnColors = 'inherit' | 'primary' | 'secondary' | 'success' | 'error' | 'info' | 'warning';
+
 // Definindo a paleta de cores principal
 export const palette = {
-  default: '#000000', // Preto
+  inherit: '#000000', // Preto
   primary: '#FF7F11', // Azul
   secondary: '#43BBF2', // Rosa
   error: '#D63643', // Vermelho
@@ -13,7 +18,7 @@ export const palette = {
 
 // Definindo cores de texto com base na paleta de cores
 export const textColors = {
-  default: palette.default,
+  inherit: palette.inherit,
   primary: palette.black,
   secondary: palette.black,
   error: palette.white,
@@ -26,7 +31,7 @@ export const textColors = {
 
 // Definindo cores de fundo com base na paleta de cores
 export const backgroundColors = {
-  default: palette.default,
+  inherit: palette.inherit,
   primary: palette.primary,
   secondary: palette.secondary,
   error: palette.error,
@@ -36,3 +41,23 @@ export const backgroundColors = {
   white: palette.white,
   black: palette.black,
 };
+
+
+export const colors: Record<IconsColors, string> = {
+  inherit: palette.inherit,
+  primary: palette.primary,
+  secondary: palette.secondary,
+  error: palette.error,
+  info: palette.info,
+  success: palette.success,
+  warning: palette.warning,
+  white: palette.white,
+  black: palette.black,
+};
+
+export function getIconsColorsArray(): IconsColors[] {
+  return Object.keys(colors) as IconsColors[];
+}
+
+
+export const getBtnColorsArray: BtnColors[] = ['inherit', 'primary', 'secondary', 'success', 'error', 'info', 'warning'];

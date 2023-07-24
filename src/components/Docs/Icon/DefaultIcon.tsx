@@ -1,17 +1,19 @@
 import React, { FunctionComponent, forwardRef } from 'react';
 import { styled } from '@storybook/theming';
 import { defaultIcons } from './default';
-import { IconsProps, sizes, colors } from './types';
+import { IconsProps } from './types';
+import { iconsSizes, colors } from '../../../helpers';
+
 
 
 const IconsBase: FunctionComponent<IconsProps & { ref: React.Ref<HTMLDivElement> }> = forwardRef(
-  ({ icon, scale, color = 'default', width = 0, height = 0, fill, ...props }: IconsProps, ref) => {
+  ({ icon, scale = 24, color = 'inherit', width = 0, height = 0, fill, ...props }: IconsProps, ref) => {
     let newWidth = 24;
     let newheight = 24;
 
     if (scale) {
-      newWidth = sizes[scale];
-      newheight = sizes[scale];
+      newWidth = iconsSizes[scale];
+      newheight = iconsSizes[scale];
     } 
 
     if (width && width > 0 && height && height > 0) {
@@ -50,3 +52,8 @@ const IconsBase: FunctionComponent<IconsProps & { ref: React.Ref<HTMLDivElement>
 export const Icons = forwardRef<HTMLDivElement, IconsProps>((props, ref) => <IconsBase {...props} ref={ref} />);
 
 
+Icons.defaultProps = {
+  icon: "user",
+  scale: "3xlarge",
+  color: "inherit",
+};
