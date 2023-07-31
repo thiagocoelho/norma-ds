@@ -193,6 +193,14 @@ export const DataGrid = ({ data, variant = 'standard', ...rest }: DataTableProps
           border-right-width: 0;
         }
       `}
+      ${variant === 'quiet-divider' &&
+      css`
+        border-color: #cccccc;
+
+        &:last-child {
+          border-right-width: 0;
+        }
+      `}
     }
 
     ${variant === 'standard' &&
@@ -206,6 +214,42 @@ export const DataGrid = ({ data, variant = 'standard', ...rest }: DataTableProps
     css`
       tr:nth-child(even) {
         background-color: var(--table-striped-bg);
+      }
+    `}
+
+    ${variant === 'standard-selectable' &&
+    css`
+      tr:nth-child(even) {
+        background-color: var(--table-striped-bg);
+      }
+      ,
+      tr:hover {
+        background-color: var(--table-hover-bg);
+      }
+    `}
+
+    ${variant === 'quiet' &&
+    css`
+      tr {
+        background-color: inherit;
+      }
+    `}
+
+    ${variant === 'quiet-divider' &&
+    css`
+      tr {
+        background-color: inherit;
+      }
+    `}
+
+    ${variant === 'quiet-selectable' &&
+    css`
+      tr {
+        background-color: inherit;
+      }
+      ,
+      tr:hover {
+        background-color: var(--table-hover-bg);
       }
     `}
   `;

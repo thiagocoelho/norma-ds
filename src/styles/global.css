@@ -31,7 +31,7 @@ tr {
 
 :root {
   --color-gray: #666;
-  --color-primary: ##ff7c0d;
+  --color-primary: #ff7c0d;
   --body-color: #212529;
   --body-color-rgb: 33, 37, 41;
   --body-bg: #fff;
@@ -48,5 +48,5 @@ tr {
   --table-active-color: var(--body-color);
   --table-active-bg: rgba(0, 0, 0, 0.1);
   --table-hover-color: var(--body-color);
-  --table-hover-bg: rgba(0, 0, 0, 0.075);
+  --table-hover-bg: rgba(255, 124, 13, 0.5);
 }

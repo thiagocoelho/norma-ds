@@ -10,19 +10,16 @@ import '@fontsource/roboto/300.css';
 import '@fontsource/roboto/400.css';
 import '@fontsource/roboto/500.css';
 import '@fontsource/roboto/700.css';
-import { PrimaryColorProvider } from './context/PrimaryColorContext';
-
+// import { PrimaryColorProvider } from './context/PrimaryColorContext';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
     <ThemeProvider theme={themes.dark}>
-      <PrimaryColorProvider color="red">
-      <CssBaseline/>
+      <CssBaseline />
       <App />
-      </PrimaryColorProvider>
     </ThemeProvider>
-  </React.StrictMode>
+  </React.StrictMode>,
 );
 
 reportWebVitals();

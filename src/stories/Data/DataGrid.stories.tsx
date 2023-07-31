@@ -45,9 +45,9 @@ export const Sizes = () => {
   return (
     <>
       <Typography variant="h6">Sizes</Typography>
-      <Typography variant="body1">The available sizes to scale the button are:</Typography>
+      <Typography variant="body1">The available sizes to scale the grid are:</Typography>
       <Grid container spacing={2}>
-        Sizes
+        <DataGrid data={data} variant="standard" width="640px" height="340px"></DataGrid>
       </Grid>
     </>
   );
@@ -58,7 +58,7 @@ Sizes.storyName = 'Sizes';
 export const Colors = () => (
   <>
     <Typography variant="h6">Colors</Typography>
-    <Typography variant="body1">The available colors to backgroud the button are:</Typography>
+    <Typography variant="body1">The available colors to backgroud the grid are:</Typography>
     <Grid container spacing={2}>
       Colors
     </Grid>
