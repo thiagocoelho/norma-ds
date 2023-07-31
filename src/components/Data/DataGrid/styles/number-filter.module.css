@@ -1,0 +1,16 @@
+.boxNumberFilter {
+  position: absolute;
+  height: 190px;
+  top: 0;
+  left: 220px;
+  width: 240px;
+  display: flex;
+  background: #fff;
+  z-index: 9;
+  border: 0;
+  box-shadow: 0 0 10px #ccc;
+  padding: 5px 10px;
+  flex-direction: column;
+  text-align: left;
+  justify-content: flex-start;
+}

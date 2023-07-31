@@ -1,0 +1,12 @@
+*.json
+.docz/
+scripts/
+lib/
+build/
+src/icons/
+src/styles/fonts/**
+src/styles/**/mixins/**
+src/components/ErrorBoundary/ErrorBoundary.tsx
+src/gatsby-theme-docz/
+*.d.ts
+.rollup.cache

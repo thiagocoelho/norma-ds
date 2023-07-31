@@ -1,10 +1,10 @@
 import React from 'react';
-import { Tab, Tabs } from "../../components/Layout/Tabs";
+import { Tab, Tabs } from "../../components/Navigation/Tabs";
 import { Box, TabsProps, Typography } from '@mui/material';
-import { TabPanelBaseProps } from "../../components/Layout/Tabs/types";
+import { TabPanelBaseProps } from "../../components/Navigation/Tabs/types";
 
 export default {
-  title: 'Components/Tabs',
+  title: 'Navigation/Tabs',
   component: Tabs,
   excludeStories: /.*Data$/,
 };

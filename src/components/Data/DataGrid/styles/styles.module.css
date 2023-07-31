@@ -1,0 +1,107 @@
+@import '../../../../styles/global.css';
+
+.tableHeader {
+  display: flex;
+  position: relative;
+}
+
+.tableHeader h3 {
+  padding-top: 24px;
+  padding-bottom: 24px;
+  padding-left: 15px;
+  font: normal normal normal 18px/24px 'Source Sans Pro';
+}
+
+.button {
+  position: absolute;
+  top: 24px;
+  right: 30px;
+  border: 0;
+  background: none;
+  width: 16px;
+  height: 16px;
+  cursor: pointer;
+}
+
+.table {
+  display: table;
+  width: 100%;
+  margin-bottom: 1rem;
+  color: var(--table-color);
+  vertical-align: top;
+  border-color: var(--table-border-color);
+  caption-side: bottom;
+  border-collapse: collapse;
+  text-indent: initial;
+  border-spacing: 2px;
+  text-indent: initial;
+  border-spacing: 2px;
+}
+
+.table > :not(caption) > * > * {
+  padding: 0.5rem 0.5rem;
+  background-color: var(--table-bg);
+  box-shadow: inset 0 0 0 9999px var(--table-accent-bg);
+}
+
+.table > thead {
+  vertical-align: bottom;
+}
+
+.table thead {
+  display: table-header-group;
+}
+
+.table tr {
+  display: table-row;
+  vertical-align: inherit;
+  height: 20px;
+}
+
+.standard tr:nth-child(even),
+.standard-divider tr:nth-child(even) {
+  background: var(--table-striped-bg) 0% 0% no-repeat padding-box;
+}
+
+.standard-divider tr td {
+  border-right: 1px solid --table-bg;
+}
+
+.table th {
+  display: table-cell;
+  vertical-align: inherit;
+  font-weight: bold;
+  border-bottom-width: 1px;
+  position: relative;
+}
+
+.table th button {
+  background: none;
+  border: 0;
+  cursor: pointer;
+  font: normal normal 600 16px/22px 'Source Sans Pro';
+  text-align: left;
+}
+
+.table th img {
+  position: absolute;
+  top: 22px;
+  right: 15px;
+}
+
+.table th,
+.table td {
+  text-align: inherit;
+  text-align: -webkit-match-parent;
+  position: relative;
+}
+
+.table td {
+  font: normal normal normal 16px/22px 'Source Sans Pro';
+}
+
+.table tbody {
+  display: table-row-group;
+  vertical-align: middle;
+  border-color: inherit;
+}

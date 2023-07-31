@@ -1,10 +1,10 @@
 import type { Meta, StoryObj } from '@storybook/react';
-import { Icons as DefaultIconSVG} from "../../components/Docs/Icon/DefaultIcon"
+import { Icons as DefaultIconSVG} from "../../components/Data/Icon/DefaultIcon"
 import { getIconsColorsArray, getIconsSizesArray } from '../../helpers';
 import { Grid, Typography, Paper } from '@mui/material';
 
 const meta: Meta<typeof DefaultIconSVG> = {
-  title: 'Components/Icon',
+  title: 'Data display/Icon',
   component: DefaultIconSVG,
   tags: ['autodocs'],
   argTypes: {

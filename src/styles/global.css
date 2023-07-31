@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700;900&family=Roboto:wght@300;400;500;700;900&family=Source+Sans+Pro:wght@300;400;600;900&family=Ubuntu:ital,wght@0,400;0,500;0,700;1,300&display=swap');
+html,
+body {
+  box-sizing: border-box;
+  background: var(--body-bg) 0% 0% no-repeat padding-box;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: inherit;
+  margin: 0;
+  padding: 0;
+}
+
+a {
+  cursor: pointer;
+  text-decoration: none;
+}
+
+tbody,
+td,
+tfoot,
+th,
+thead,
+tr {
+  border-color: inherit;
+  border-style: solid;
+  border-width: 0;
+}
+
+:root {
+  --color-gray: #666;
+  --color-primary: ##ff7c0d;
+  --body-color: #212529;
+  --body-color-rgb: 33, 37, 41;
+  --body-bg: #fff;
+  --body-bg-rgb: 255, 255, 255;
+  --border-color: #dee2e6;
+  --border-color-translucent: rgba(0, 0, 0, 0.175);
+  --container-bg: #f8f8f8;
+  --table-color: var(--body-color);
+  --table-bg: transparent;
+  --table-border-color: var(--border-color);
+  --table-accent-bg: transparent;
+  --table-striped-color: var(--body-color);
+  --table-striped-bg: #fafafa;
+  --table-active-color: var(--body-color);
+  --table-active-bg: rgba(0, 0, 0, 0.1);
+  --table-hover-color: var(--body-color);
+  --table-hover-bg: rgba(0, 0, 0, 0.075);
+}

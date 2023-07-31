@@ -1,14 +1,22 @@
 module.exports = {
-  stories: ["../src/**/*.stories.mdx", "../src/**/*.stories.@(js|jsx|ts|tsx)"],
-  addons: ["@storybook/addon-links", "@storybook/addon-essentials", "@storybook/addon-interactions", "@storybook/preset-create-react-app", "@storybook/addon-mdx-gfm","storybook-color-picker"],
+  stories: ['../src/**/*.stories.mdx', '../src/**/*.stories.@(js|jsx|ts|tsx)'],
+  addons: [
+    '@storybook/addon-links',
+    '@storybook/addon-essentials',
+    '@storybook/addon-interactions',
+    '@storybook/preset-create-react-app',
+    '@storybook/addon-mdx-gfm',
+    'storybook-color-picker',
+    'storybook-react-i18next',
+  ],
   framework: {
-    name: "@storybook/react-webpack5",
-    options: {}
+    name: '@storybook/react-webpack5',
+    options: {},
   },
   typescript: {
     check: false,
     checkOptions: {},
-    reactDocgen: "react-docgen-typescript",
+    reactDocgen: 'react-docgen-typescript',
     reactDocgenTypescriptOptions: {
       allowSyntheticDefaultImports: false,
       // speeds up storybook build time
@@ -18,12 +26,11 @@ module.exports = {
       // makes union prop types like variant and size appear as select controls
       shouldRemoveUndefinedFromOptional: true,
       // makes string and boolean types that can be undefined appear as inputs and switches
-      propFilter: prop => prop.parent ? !/node_modules\/(?!@mui)/.test(prop.parent.fileName) : true
-    }
+      propFilter: prop => (prop.parent ? !/node_modules\/(?!@mui)/.test(prop.parent.fileName) : true),
+    },
   },
   docs: {
-    autodocs: true
-  }
+    autodocs: true,
+  },
+  staticDirs: ['../public'],
 };
-
-//

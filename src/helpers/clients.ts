@@ -1,0 +1,6 @@
+const CLIENT_COLORS = {
+  olos: ['#FF7F11', '#FFDB9F', '#FFA84C', '#B74608'],
+  bradesco: ['#cc092f', '#cc092f', '#cc092f', '#99061e'],
+};
+
+export default CLIENT_COLORS;

@@ -1,0 +1,86 @@
+.dropdown {
+  position: absolute;
+  min-height: 330px;
+  top: 55px;
+  left: 0;
+  width: 220px;
+  display: flex;
+  background: #fff;
+  z-index: 9;
+  border: 0;
+  box-shadow: 0 0 10px #ccc;
+  padding: 5px 10px;
+  flex-direction: column;
+  text-align: left;
+  justify-content: flex-start;
+}
+
+.dropdown ul ol {
+  margin: 0;
+  padding: 0;
+}
+
+.dropdown li {
+  list-style: none;
+}
+
+.dropdown li button {
+  width: 100%;
+  margin: 4px 0;
+  position: relative;
+  font-weight: 400;
+  font-family: "Source Sans Pro";
+}
+.dropdown li button span {
+  position: absolute;
+  right: 0;
+}
+.dropdown li.search {
+  position: relative;
+  padding: 10px 0;
+}
+
+.dropdown li.search button {
+  position: absolute;
+  top: 13px;
+  right: 5px;
+  width: 18px;
+  height: 18px;
+}
+
+.dropdown li.search button svg {
+  width: 16px;
+  height: 16px;
+}
+
+.boxListDataColumn {
+  background: #f2f2f2;
+  padding: 5px;
+  overflow: auto;
+  width: 100%;
+  height: 120px;
+}
+.boxListDataColumn li {
+  padding: 5px 0;
+
+  height: 20px;
+  line-height: 20px;
+  font: normal normal normal 16px/22px "Source Sans Pro";
+}
+
+.dropdown button.submit {
+  width: 80px;
+  border: 1px solid;
+  border-radius: 3px;
+  margin: 5px 0 0;
+  position: absolute;
+  bottom: 10px;
+  right: 10px;
+  text-align: center !important;
+  padding: 5px 10px;
+  clear: both;
+}
+
+.dropdown .dropDown_numbers {
+  position: relative;
+}

@@ -1,10 +1,11 @@
-import React, { forwardRef, memo } from 'react';
+import React from 'react';
 import { BoxBaseProps } from './types';
-import { Box as MuiBox } from "@mui/material";
+import { Box as MuiBox } from '@mui/material';
 
-const Box = forwardRef<HTMLDivElement, BoxBaseProps>((props, ref) => {
-  const {...rest } = props;
-  return (<MuiBox {...rest} ref={ref} />)
-});
+export const Box = ({ children, ...rest }: BoxBaseProps) => {
+  return <MuiBox {...rest}>{children}</MuiBox>;
+};
 
-export default memo(Box);  
+Box.defaultProps = {
+  children: `Box`,
+};

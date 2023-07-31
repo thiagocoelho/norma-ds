@@ -1,0 +1,2918 @@
+[
+    {
+        "ani": "50364900",
+        "operadora": 16187,
+        "olos": 12753,
+        "totalQuantidade": 28940,
+        "totalLimite": 95000,
+        "porcentagemQuantidade": 30.0,
+        "porcentagemOlos": 13.0,
+        "porcentagemOperadora": 17.0,
+        "DateLastExecuting": "6/23/2022 3:46:54 PM",
+        "detalhes": [
+            {
+                "texto": "Aborted",
+                "valor": 36
+            },
+            {
+                "texto": "Normal applied",
+                "valor": 448
+            },
+            {
+                "texto": "Normal received",
+                "valor": 1493
+            },
+            {
+                "texto": "No answer",
+                "valor": 4079
+            },
+            {
+                "texto": "Busy",
+                "valor": 296
+            },
+            {
+                "texto": "Bad number",
+                "valor": 6285
+            },
+            {
+                "texto": "Pstn fail",
+                "valor": 3716
+            },
+            {
+                "texto": "Carrier message",
+                "valor": 4486
+            },
+            {
+                "texto": "Message box",
+                "valor": 7408
+            },
+            {
+                "texto": "DeniedCall",
+                "valor": 676
+            },
+            {
+                "texto": "Bad connect",
+                "valor": 1
+            },
+            {
+                "texto": "Answering machine",
+                "valor": 2
+            },
+            {
+                "texto": "Silence",
+                "valor": 14
+            }
+        ]
+    },
+    {
+        "ani": "50364901",
+        "operadora": 16345,
+        "olos": 12772,
+        "totalQuantidade": 29117,
+        "totalLimite": 95000,
+        "porcentagemQuantidade": 30.0,
+        "porcentagemOlos": 13.0,
+        "porcentagemOperadora": 17.0,
+        "DateLastExecuting": "6/23/2022 3:46:54 PM",
+        "detalhes": [
+            {
+                "texto": "Aborted",
+                "valor": 30
+            },
+            {
+                "texto": "Normal applied",
+                "valor": 456
+            },
+            {
+                "texto": "Normal received",
+                "valor": 1684
+            },
+            {
+                "texto": "No answer",
+                "valor": 4588
+            },
+            {
+                "texto": "Busy",
+                "valor": 254
+            },
+            {
+                "texto": "Bad number",
+                "valor": 6360
+            },
+            {
+                "texto": "Pstn fail",
+                "valor": 3750
+            },
+            {
+                "texto": "Carrier message",
+                "valor": 4391
+            },
+            {
+                "texto": "Message box",
+                "valor": 6830
+            },
+            {
+                "texto": "DeniedCall",
+                "valor": 741
+            },
+            {
+                "texto": "Answering machine",
+                "valor": 3
+            },
+            {
+                "texto": "Silence",
+                "valor": 30
+            }
+        ]
+    },
+    {
+        "ani": "50364902",
+        "operadora": 16143,
+        "olos": 12646,
+        "totalQuantidade": 28789,
+        "totalLimite": 95000,
+        "porcentagemQuantidade": 30.0,
+        "porcentagemOlos": 13.0,
+        "porcentagemOperadora": 16.0,
+        "DateLastExecuting": "6/23/2022 3:46:54 PM",
+        "detalhes": [
+            {
+                "texto": "Aborted",
+                "valor": 30
+            },
+            {
+                "texto": "Normal applied",
+                "valor": 497
+            },
+            {
+                "texto": "Normal received",
+                "valor": 1680
+            },
+            {
+                "texto": "No answer",
+                "valor": 4569
+            },
+            {
+                "texto": "Busy",
+                "valor": 253
+            },
+            {
+                "texto": "Bad number",
+                "valor": 6310
+            },
+            {
+                "texto": "Pstn fail",
+                "valor": 3797
+            },
+            {
+                "texto": "Carrier message",
+                "valor": 4233
+            },
+            {
+                "texto": "Message box",
+                "valor": 6704
+            },
+            {
+                "texto": "DeniedCall",
+                "valor": 700
+            },
+            {
+                "texto": "Answering machine",
+                "valor": 2
+            },
+            {
+                "texto": "Unknown audio source",
+                "valor": 1
+            },
+            {
+                "texto": "Silence",
+                "valor": 13
+            }
+        ]
+    },
+    {
+        "ani": "50364903",
+        "operadora": 15992,
+        "olos": 12534,
+        "totalQuantidade": 28526,
+        "totalLimite": 95000,
+        "porcentagemQuantidade": 30.0,
+        "porcentagemOlos": 13.0,
+        "porcentagemOperadora": 16.0,
+        "DateLastExecuting": "6/23/2022 3:46:54 PM",
+        "detalhes": [
+            {
+                "texto": "Aborted",
+                "valor": 27
+            },
+            {
+                "texto": "Normal applied",
+                "valor": 535
+            },
+            {
+                "texto": "Normal received",
+                "valor": 1677
+            },
+            {
+                "texto": "No answer",
+                "valor": 4546
+            },
+            {
+                "texto": "Busy",
+                "valor": 240
+            },
+            {
+                "texto": "Bad number",
+                "valor": 6237
+            },
+            {
+                "texto": "Pstn fail",
+                "valor": 3619
+            },
+            {
+                "texto": "Carrier message",
+                "valor": 4311
+            },
+            {
+                "texto": "Message box",
+                "valor": 6607
+            },
+            {
+                "texto": "DeniedCall",
+                "valor": 708
+            },
+            {
+                "texto": "Unknown audio source",
+                "valor": 1
+            },
+            {
+                "texto": "Silence",
+                "valor": 18
+            }
+        ]
+    },
+    {
+        "ani": "50364904",
+        "operadora": 16309,
+        "olos": 12649,
+        "totalQuantidade": 28958,
+        "totalLimite": 95000,
+        "porcentagemQuantidade": 30.0,
+        "porcentagemOlos": 13.0,
+        "porcentagemOperadora": 17.0,
+        "DateLastExecuting": "6/23/2022 3:46:54 PM",
+        "detalhes": [
+            {
+                "texto": "Aborted",
+                "valor": 30
+            },
+            {
+                "texto": "Normal applied",
+                "valor": 478
+            },
+            {
+                "texto": "Normal received",
+                "valor": 1620
+            },
+            {
+                "texto": "No answer",
+                "valor": 4591
+            },
+            {
+                "texto": "Busy",
+                "valor": 308
+            },
+            {
+                "texto": "Bad number",
+                "valor": 6430
+            },
+            {
+                "texto": "Pstn fail",
+                "valor": 3777
+            },
+            {
+                "texto": "Carrier message",
+                "valor": 4265
+            },
+            {
+                "texto": "Message box",
+                "valor": 6761
+            },
+            {
+                "texto": "DeniedCall",
+                "valor": 672
+            },
+            {
+                "texto": "Bad connect",
+                "valor": 2
+            },
+            {
+                "texto": "Answering machine",
+                "valor": 1
+            },
+            {
+                "texto": "Silence",
+                "valor": 23
+            }
+        ]
+    },
+    {
+        "ani": "50364905",
+        "operadora": 16275,
+        "olos": 12788,
+        "totalQuantidade": 29063,
+        "totalLimite": 95000,
+        "porcentagemQuantidade": 30.0,
+        "porcentagemOlos": 13.0,
+        "porcentagemOperadora": 17.0,
+        "DateLastExecuting": "6/23/2022 3:46:54 PM",
+        "detalhes": [
+            {
+                "texto": "Aborted",
+                "valor": 31
+            },
+            {
+                "texto": "Normal applied",
+                "valor": 482
+            },
+            {
+                "texto": "Normal received",
+                "valor": 1750
+            },
+            {
+                "texto": "No answer",
+                "valor": 4556
+            },
+            {
+                "texto": "Busy",
+                "valor": 261
+            },
+            {
+                "texto": "Bad number",
+                "valor": 6391
+            },
+            {
+                "texto": "Pstn fail",
+                "valor": 3602
+            },
+            {
+                "texto": "Carrier message",
+                "valor": 4401
+            },
+            {
+                "texto": "Message box",
+                "valor": 6882
+            },
+            {
+                "texto": "DeniedCall",
+                "valor": 677
+            },
+            {
+                "texto": "Bad connect",
+                "valor": 1
+            },
+            {
+                "texto": "Answering machine",
+                "valor": 1
+            },
+            {
+                "texto": "Silence",
+                "valor": 28
+            }
+        ]
+    },
+    {
+        "ani": "50364906",
+        "operadora": 16392,
+        "olos": 12597,
+        "totalQuantidade": 28989,
+        "totalLimite": 95000,
+        "porcentagemQuantidade": 30.0,
+        "porcentagemOlos": 13.0,
+        "porcentagemOperadora": 17.0,
+        "DateLastExecuting": "6/23/2022 3:46:54 PM",
+        "detalhes": [
+            {
+                "texto": "Aborted",
+                "valor": 23
+            },
+            {
+                "texto": "Normal applied",
+                "valor": 501
+            },
+            {
+                "texto": "Normal received",
+                "valor": 1743
+            },
+            {
+                "texto": "No answer",
+                "valor": 4592
+            },
+            {
+                "texto": "Busy",
+                "valor": 265
+            },
+            {
+                "texto": "Bad number",
+                "valor": 6305
+            },
+            {
+                "texto": "Pstn fail",
+                "valor": 3812
+            },
+            {
+                "texto": "Carrier message",
+                "valor": 4380
+            },
+            {
+                "texto": "Message box",
+                "valor": 6655
+            },
+            {
+                "texto": "DeniedCall",
+                "valor": 691
+            },
+            {
+                "texto": "Answering machine",
+                "valor": 2
+            },
+            {
+                "texto": "Silence",
+                "valor": 20
+            }
+        ]
+    },
+    {
+        "ani": "50364907",
+        "operadora": 16277,
+        "olos": 12741,
+        "totalQuantidade": 29018,
+        "totalLimite": 95000,
+        "porcentagemQuantidade": 30.0,
+        "porcentagemOlos": 13.0,
+        "porcentagemOperadora": 17.0,
+        "DateLastExecuting": "6/23/2022 3:46:54 PM",
+        "detalhes": [
+            {
+                "texto": "Aborted",
+                "valor": 37
+            },
+            {
+                "texto": "Normal applied",
+                "valor": 466
+            },
+            {
+                "texto": "Normal received",
+                "valor": 1742
+            },
+            {
+                "texto": "No answer",
+                "valor": 4564
+            },
+            {
+                "texto": "Busy",
+                "valor": 262
+            },
+            {
+                "texto": "Bad number",
+                "valor": 6401
+            },
+            {
+                "texto": "Pstn fail",
+                "valor": 3677
+            },
+            {
+                "texto": "Carrier message",
+                "valor": 4295
+            },
+            {
+                "texto": "Message box",
+                "valor": 6792
+            },
+            {
+                "texto": "DeniedCall",
+                "valor": 755
+            },
+            {
+                "texto": "Bad connect",
+                "valor": 1
+            },
+            {
+                "texto": "Answering machine",
+                "valor": 2
+            },
+            {
+                "texto": "Unknown audio source",
+                "valor": 2
+            },
+            {
+                "texto": "Silence",
+                "valor": 22
+            }
+        ]
+    },
+    {
+        "ani": "50364908",
+        "operadora": 16321,
+        "olos": 12723,
+        "totalQuantidade": 29044,
+        "totalLimite": 95000,
+        "porcentagemQuantidade": 30.0,
+        "porcentagemOlos": 13.0,
+        "porcentagemOperadora": 17.0,
+        "DateLastExecuting": "6/23/2022 3:46:54 PM",
+        "detalhes": [
+            {
+                "texto": "Aborted",
+                "valor": 32
+            },
+            {
+                "texto": "Normal applied",
+                "valor": 522
+            },
+            {
+                "texto": "Normal received",
+                "valor": 1640
+            },
+            {
+                "texto": "No answer",
+                "valor": 4619
+            },
+            {
+                "texto": "Busy",
+                "valor": 251
+            },
+            {
+                "texto": "Bad number",
+                "valor": 6491
+            },
+            {
+                "texto": "Pstn fail",
+                "valor": 3667
+            },
+            {
+                "texto": "Carrier message",
+                "valor": 4392
+            },
+            {
+                "texto": "Message box",
+                "valor": 6711
+            },
+            {
+                "texto": "DeniedCall",
+                "valor": 694
+            },
+            {
+                "texto": "Bad connect",
+                "valor": 1
+            },
+            {
+                "texto": "Answering machine",
+                "valor": 5
+            },
+            {
+                "texto": "Silence",
+                "valor": 19
+            }
+        ]
+    },
+    {
+        "ani": "50364909",
+        "operadora": 16269,
+        "olos": 12676,
+        "totalQuantidade": 28945,
+        "totalLimite": 95000,
+        "porcentagemQuantidade": 30.0,
+        "porcentagemOlos": 13.0,
+        "porcentagemOperadora": 17.0,
+        "DateLastExecuting": "6/23/2022 3:46:54 PM",
+        "detalhes": [
+            {
+                "texto": "Aborted",
+                "valor": 36
+            },
+            {
+                "texto": "Normal applied",
+                "valor": 529
+            },
+            {
+                "texto": "Normal received",
+                "valor": 1709
+            },
+            {
+                "texto": "No answer",
+                "valor": 4634
+            },
+            {
+                "texto": "Busy",
+                "valor": 260
+            },
+            {
+                "texto": "Bad number",
+                "valor": 6462
+            },
+            {
+                "texto": "Pstn fail",
+                "valor": 3737
+            },
+            {
+                "texto": "Carrier message",
+                "valor": 4219
+            },
+            {
+                "texto": "Message box",
+                "valor": 6647
+            },
+            {
+                "texto": "DeniedCall",
+                "valor": 671
+            },
+            {
+                "texto": "Bad connect",
+                "valor": 4
+            },
+            {
+                "texto": "Answering machine",
+                "valor": 6
+            },
+            {
+                "texto": "Silence",
+                "valor": 31
+            }
+        ]
+    },
+    {
+        "ani": "50364910",
+        "operadora": 16073,
+        "olos": 12611,
+        "totalQuantidade": 28684,
+        "totalLimite": 95000,
+        "porcentagemQuantidade": 30.0,
+        "porcentagemOlos": 13.0,
+        "porcentagemOperadora": 16.0,
+        "DateLastExecuting": "6/23/2022 3:46:54 PM",
+        "detalhes": [
+            {
+                "texto": "Aborted",
+                "valor": 35
+            },
+            {
+                "texto": "Normal applied",
+                "valor": 474
+            },
+            {
+                "texto": "Normal received",
+                "valor": 1656
+            },
+            {
+                "texto": "No answer",
+                "valor": 4587
+            },
+            {
+                "texto": "Busy",
+                "valor": 261
+            },
+            {
+                "texto": "Bad number",
+                "valor": 6359
+            },
+            {
+                "texto": "Pstn fail",
+                "valor": 3599
+            },
+            {
+                "texto": "Carrier message",
+                "valor": 4292
+            },
+            {
+                "texto": "Message box",
+                "valor": 6736
+            },
+            {
+                "texto": "DeniedCall",
+                "valor": 667
+            },
+            {
+                "texto": "Bad connect",
+                "valor": 1
+            },
+            {
+                "texto": "Answering machine",
+                "valor": 3
+            },
+            {
+                "texto": "Unknown audio source",
+                "valor": 1
+            },
+            {
+                "texto": "Silence",
+                "valor": 13
+            }
+        ]
+    },
+    {
+        "ani": "50364911",
+        "operadora": 14319,
+        "olos": 12170,
+        "totalQuantidade": 26489,
+        "totalLimite": 95000,
+        "porcentagemQuantidade": 27.0,
+        "porcentagemOlos": 12.0,
+        "porcentagemOperadora": 15.0,
+        "DateLastExecuting": "6/23/2022 3:46:54 PM",
+        "detalhes": [
+            {
+                "texto": "Aborted",
+                "valor": 32
+            },
+            {
+                "texto": "Normal applied",
+                "valor": 450
+            },
+            {
+                "texto": "Normal received",
+                "valor": 1706
+            },
+            {
+                "texto": "No answer",
+                "valor": 4372
+            },
+            {
+                "texto": "Busy",
+                "valor": 282
+            },
+            {
+                "texto": "Bad number",
+                "valor": 6414
+            },
+            {
+                "texto": "Pstn fail",
+                "valor": 3656
+            },
+            {
+                "texto": "Carrier message",
+                "valor": 2371
+            },
+            {
+                "texto": "Message box",
+                "valor": 6480
+            },
+            {
+                "texto": "DeniedCall",
+                "valor": 726
+            }
+        ]
+    },
+    {
+        "ani": "50364912",
+        "operadora": 13882,
+        "olos": 12301,
+        "totalQuantidade": 26183,
+        "totalLimite": 95000,
+        "porcentagemQuantidade": 27.0,
+        "porcentagemOlos": 12.0,
+        "porcentagemOperadora": 14.0,
+        "DateLastExecuting": "6/23/2022 3:46:54 PM",
+        "detalhes": [
+            {
+                "texto": "Aborted",
+                "valor": 27
+            },
+            {
+                "texto": "Normal applied",
+                "valor": 498
+            },
+            {
+                "texto": "Normal received",
+                "valor": 1621
+            },
+            {
+                "texto": "No answer",
+                "valor": 4419
+            },
+            {
+                "texto": "Busy",
+                "valor": 297
+            },
+            {
+                "texto": "Bad number",
+                "valor": 6172
+            },
+            {
+                "texto": "Pstn fail",
+                "valor": 3579
+            },
+            {
+                "texto": "Carrier message",
+                "valor": 2325
+            },
+            {
+                "texto": "Message box",
+                "valor": 6556
+            },
+            {
+                "texto": "DeniedCall",
+                "valor": 689
+            }
+        ]
+    },
+    {
+        "ani": "50364913",
+        "operadora": 13927,
+        "olos": 12232,
+        "totalQuantidade": 26159,
+        "totalLimite": 95000,
+        "porcentagemQuantidade": 27.0,
+        "porcentagemOlos": 12.0,
+        "porcentagemOperadora": 14.0,
+        "DateLastExecuting": "6/23/2022 3:46:54 PM",
+        "detalhes": [
+            {
+                "texto": "Aborted",
+                "valor": 37
+            },
+            {
+                "texto": "Normal applied",
+                "valor": 500
+            },
+            {
+                "texto": "Normal received",
+                "valor": 1754
+            },
+            {
+                "texto": "No answer",
+                "valor": 4443
+            },
+            {
+                "texto": "Busy",
+                "valor": 286
+            },
+            {
+                "texto": "Bad number",
+                "valor": 6137
+            },
+            {
+                "texto": "Pstn fail",
+                "valor": 3599
+            },
+            {
+                "texto": "Carrier message",
+                "valor": 2231
+            },
+            {
+                "texto": "Message box",
+                "valor": 6459
+            },
+            {
+                "texto": "DeniedCall",
+                "valor": 713
+            }
+        ]
+    },
+    {
+        "ani": "50364914",
+        "operadora": 13905,
+        "olos": 12224,
+        "totalQuantidade": 26129,
+        "totalLimite": 95000,
+        "porcentagemQuantidade": 27.0,
+        "porcentagemOlos": 12.0,
+        "porcentagemOperadora": 14.0,
+        "DateLastExecuting": "6/23/2022 3:46:54 PM",
+        "detalhes": [
+            {
+                "texto": "Aborted",
+                "valor": 31
+            },
+            {
+                "texto": "Normal applied",
+                "valor": 525
+            },
+            {
+                "texto": "Normal received",
+                "valor": 1686
+            },
+            {
+                "texto": "No answer",
+                "valor": 4362
+            },
+            {
+                "texto": "Busy",
+                "valor": 248
+            },
+            {
+                "texto": "Bad number",
+                "valor": 6159
+            },
+            {
+                "texto": "Pstn fail",
+                "valor": 3640
+            },
+            {
+                "texto": "Carrier message",
+                "valor": 2281
+            },
+            {
+                "texto": "Message box",
+                "valor": 6507
+            },
+            {
+                "texto": "DeniedCall",
+                "valor": 690
+            }
+        ]
+    },
+    {
+        "ani": "50364915",
+        "operadora": 14190,
+        "olos": 12103,
+        "totalQuantidade": 26293,
+        "totalLimite": 95000,
+        "porcentagemQuantidade": 27.0,
+        "porcentagemOlos": 12.0,
+        "porcentagemOperadora": 14.0,
+        "DateLastExecuting": "6/23/2022 3:46:54 PM",
+        "detalhes": [
+            {
+                "texto": "Aborted",
+                "valor": 28
+            },
+            {
+                "texto": "Normal applied",
+                "valor": 508
+            },
+            {
+                "texto": "Normal received",
+                "valor": 1610
+            },
+            {
+                "texto": "No answer",
+                "valor": 4283
+            },
+            {
+                "texto": "Busy",
+                "valor": 277
+            },
+            {
+                "texto": "Bad number",
+                "valor": 6334
+            },
+            {
+                "texto": "Pstn fail",
+                "valor": 3797
+            },
+            {
+                "texto": "Carrier message",
+                "valor": 2311
+            },
+            {
+                "texto": "Message box",
+                "valor": 6434
+            },
+            {
+                "texto": "DeniedCall",
+                "valor": 711
+            }
+        ]
+    },
+    {
+        "ani": "50364916",
+        "operadora": 13782,
+        "olos": 12224,
+        "totalQuantidade": 26006,
+        "totalLimite": 95000,
+        "porcentagemQuantidade": 27.0,
+        "porcentagemOlos": 12.0,
+        "porcentagemOperadora": 14.0,
+        "DateLastExecuting": "6/23/2022 3:46:54 PM",
+        "detalhes": [
+            {
+                "texto": "Aborted",
+                "valor": 32
+            },
+            {
+                "texto": "Normal applied",
+                "valor": 532
+            },
+            {
+                "texto": "Normal received",
+                "valor": 1619
+            },
+            {
+                "texto": "No answer",
+                "valor": 4245
+            },
+            {
+                "texto": "Busy",
+                "valor": 296
+            },
+            {
+                "texto": "Bad number",
+                "valor": 6125
+            },
+            {
+                "texto": "Pstn fail",
+                "valor": 3648
+            },
+            {
+                "texto": "Carrier message",
+                "valor": 2241
+            },
+            {
+                "texto": "Message box",
+                "valor": 6544
+            },
+            {
+                "texto": "DeniedCall",
+                "valor": 724
+            }
+        ]
+    },
+    {
+        "ani": "50364917",
+        "operadora": 13884,
+        "olos": 12085,
+        "totalQuantidade": 25969,
+        "totalLimite": 95000,
+        "porcentagemQuantidade": 27.0,
+        "porcentagemOlos": 12.0,
+        "porcentagemOperadora": 14.0,
+        "DateLastExecuting": "6/23/2022 3:46:54 PM",
+        "detalhes": [
+            {
+                "texto": "Aborted",
+                "valor": 30
+            },
+            {
+                "texto": "Normal applied",
+                "valor": 477
+            },
+            {
+                "texto": "Normal received",
+                "valor": 1638
+            },
+            {
+                "texto": "No answer",
+                "valor": 4301
+            },
+            {
+                "texto": "Busy",
+                "valor": 245
+            },
+            {
+                "texto": "Bad number",
+                "valor": 6241
+            },
+            {
+                "texto": "Pstn fail",
+                "valor": 3639
+            },
+            {
+                "texto": "Carrier message",
+                "valor": 2237
+            },
+            {
+                "texto": "Message box",
+                "valor": 6465
+            },
+            {
+                "texto": "DeniedCall",
+                "valor": 696
+            }
+        ]
+    },
+    {
+        "ani": "50364918",
+        "operadora": 14058,
+        "olos": 12198,
+        "totalQuantidade": 26256,
+        "totalLimite": 95000,
+        "porcentagemQuantidade": 27.0,
+        "porcentagemOlos": 12.0,
+        "porcentagemOperadora": 14.0,
+        "DateLastExecuting": "6/23/2022 3:46:54 PM",
+        "detalhes": [
+            {
+                "texto": "Aborted",
+                "valor": 30
+            },
+            {
+                "texto": "Normal applied",
+                "valor": 510
+            },
+            {
+                "texto": "Normal received",
+                "valor": 1739
+            },
+            {
+                "texto": "No answer",
+                "valor": 4325
+            },
+            {
+                "texto": "Busy",
+                "valor": 239
+            },
+            {
+                "texto": "Bad number",
+                "valor": 6318
+            },
+            {
+                "texto": "Pstn fail",
+                "valor": 3691
+            },
+            {
+                "texto": "Carrier message",
+                "valor": 2176
+            },
+            {
+                "texto": "Message box",
+                "valor": 6538
+            },
+            {
+                "texto": "DeniedCall",
+                "valor": 690
+            }
+        ]
+    },
+    {
+        "ani": "50364919",
+        "operadora": 14011,
+        "olos": 12108,
+        "totalQuantidade": 26119,
+        "totalLimite": 95000,
+        "porcentagemQuantidade": 27.0,
+        "porcentagemOlos": 12.0,
+        "porcentagemOperadora": 14.0,
+        "DateLastExecuting": "6/23/2022 3:46:54 PM",
+        "detalhes": [
+            {
+                "texto": "Aborted",
+                "valor": 31
+            },
+            {
+                "texto": "Normal applied",
+                "valor": 481
+            },
+            {
+                "texto": "Normal received",
+                "valor": 1756
+            },
+            {
+                "texto": "No answer",
+                "valor": 4342
+            },
+            {
+                "texto": "Busy",
+                "valor": 265
+            },
+            {
+                "texto": "Bad number",
+                "valor": 6224
+            },
+            {
+                "texto": "Pstn fail",
+                "valor": 3618
+            },
+            {
+                "texto": "Carrier message",
+                "valor": 2275
+            },
+            {
+                "texto": "Message box",
+                "valor": 6415
+            },
+            {
+                "texto": "DeniedCall",
+                "valor": 712
+            }
+        ]
+    },
+    {
+        "ani": "50364920",
+        "operadora": 13983,
+        "olos": 12187,
+        "totalQuantidade": 26170,
+        "totalLimite": 95000,
+        "porcentagemQuantidade": 27.0,
+        "porcentagemOlos": 12.0,
+        "porcentagemOperadora": 14.0,
+        "DateLastExecuting": "6/23/2022 3:46:54 PM",
+        "detalhes": [
+            {
+                "texto": "Aborted",
+                "valor": 37
+            },
+            {
+                "texto": "Normal applied",
+                "valor": 442
+            },
+            {
+                "texto": "Normal received",
+                "valor": 1651
+            },
+            {
+                "texto": "No answer",
+                "valor": 4312
+            },
+            {
+                "texto": "Busy",
+                "valor": 260
+            },
+            {
+                "texto": "Bad number",
+                "valor": 6228
+            },
+            {
+                "texto": "Pstn fail",
+                "valor": 3681
+            },
+            {
+                "texto": "Carrier message",
+                "valor": 2279
+            },
+            {
+                "texto": "Message box",
+                "valor": 6575
+            },
+            {
+                "texto": "DeniedCall",
+                "valor": 705
+            }
+        ]
+    },
+    {
+        "ani": "50364921",
+        "operadora": 13939,
+        "olos": 12170,
+        "totalQuantidade": 26109,
+        "totalLimite": 95000,
+        "porcentagemQuantidade": 27.0,
+        "porcentagemOlos": 12.0,
+        "porcentagemOperadora": 14.0,
+        "DateLastExecuting": "6/23/2022 3:46:54 PM",
+        "detalhes": [
+            {
+                "texto": "Aborted",
+                "valor": 30
+            },
+            {
+                "texto": "Normal applied",
+                "valor": 499
+            },
+            {
+                "texto": "Normal received",
+                "valor": 1706
+            },
+            {
+                "texto": "No answer",
+                "valor": 4374
+            },
+            {
+                "texto": "Busy",
+                "valor": 250
+            },
+            {
+                "texto": "Bad number",
+                "valor": 6215
+            },
+            {
+                "texto": "Pstn fail",
+                "valor": 3677
+            },
+            {
+                "texto": "Carrier message",
+                "valor": 2205
+            },
+            {
+                "texto": "Message box",
+                "valor": 6431
+            },
+            {
+                "texto": "DeniedCall",
+                "valor": 722
+            }
+        ]
+    },
+    {
+        "ani": "50364922",
+        "operadora": 13994,
+        "olos": 12139,
+        "totalQuantidade": 26133,
+        "totalLimite": 95000,
+        "porcentagemQuantidade": 27.0,
+        "porcentagemOlos": 12.0,
+        "porcentagemOperadora": 14.0,
+        "DateLastExecuting": "6/23/2022 3:46:54 PM",
+        "detalhes": [
+            {
+                "texto": "Aborted",
+                "valor": 38
+            },
+            {
+                "texto": "Normal applied",
+                "valor": 498
+            },
+            {
+                "texto": "Normal received",
+                "valor": 1664
+            },
+            {
+                "texto": "No answer",
+                "valor": 4389
+            },
+            {
+                "texto": "Busy",
+                "valor": 270
+            },
+            {
+                "texto": "Bad number",
+                "valor": 6188
+            },
+            {
+                "texto": "Pstn fail",
+                "valor": 3706
+            },
+            {
+                "texto": "Carrier message",
+                "valor": 2292
+            },
+            {
+                "texto": "Message box",
+                "valor": 6366
+            },
+            {
+                "texto": "DeniedCall",
+                "valor": 722
+            }
+        ]
+    },
+    {
+        "ani": "50364923",
+        "operadora": 14279,
+        "olos": 12192,
+        "totalQuantidade": 26471,
+        "totalLimite": 95000,
+        "porcentagemQuantidade": 27.0,
+        "porcentagemOlos": 12.0,
+        "porcentagemOperadora": 15.0,
+        "DateLastExecuting": "6/23/2022 3:46:54 PM",
+        "detalhes": [
+            {
+                "texto": "Aborted",
+                "valor": 24
+            },
+            {
+                "texto": "Normal applied",
+                "valor": 470
+            },
+            {
+                "texto": "Normal received",
+                "valor": 1758
+            },
+            {
+                "texto": "No answer",
+                "valor": 4326
+            },
+            {
+                "texto": "Busy",
+                "valor": 273
+            },
+            {
+                "texto": "Bad number",
+                "valor": 6264
+            },
+            {
+                "texto": "Pstn fail",
+                "valor": 3762
+            },
+            {
+                "texto": "Carrier message",
+                "valor": 2333
+            },
+            {
+                "texto": "Message box",
+                "valor": 6550
+            },
+            {
+                "texto": "DeniedCall",
+                "valor": 711
+            }
+        ]
+    },
+    {
+        "ani": "50364924",
+        "operadora": 14137,
+        "olos": 12156,
+        "totalQuantidade": 26293,
+        "totalLimite": 95000,
+        "porcentagemQuantidade": 27.0,
+        "porcentagemOlos": 12.0,
+        "porcentagemOperadora": 14.0,
+        "DateLastExecuting": "6/23/2022 3:46:54 PM",
+        "detalhes": [
+            {
+                "texto": "Aborted",
+                "valor": 22
+            },
+            {
+                "texto": "Normal applied",
+                "valor": 504
+            },
+            {
+                "texto": "Normal received",
+                "valor": 1626
+            },
+            {
+                "texto": "No answer",
+                "valor": 4413
+            },
+            {
+                "texto": "Busy",
+                "valor": 254
+            },
+            {
+                "texto": "Bad number",
+                "valor": 6355
+            },
+            {
+                "texto": "Pstn fail",
+                "valor": 3631
+            },
+            {
+                "texto": "Carrier message",
+                "valor": 2362
+            },
+            {
+                "texto": "Message box",
+                "valor": 6440
+            },
+            {
+                "texto": "DeniedCall",
+                "valor": 686
+            }
+        ]
+    },
+    {
+        "ani": "50364925",
+        "operadora": 14157,
+        "olos": 12115,
+        "totalQuantidade": 26272,
+        "totalLimite": 95000,
+        "porcentagemQuantidade": 27.0,
+        "porcentagemOlos": 12.0,
+        "porcentagemOperadora": 14.0,
+        "DateLastExecuting": "6/23/2022 3:46:54 PM",
+        "detalhes": [
+            {
+                "texto": "Aborted",
+                "valor": 29
+            },
+            {
+                "texto": "Normal applied",
+                "valor": 494
+            },
+            {
+                "texto": "Normal received",
+                "valor": 1694
+            },
+            {
+                "texto": "No answer",
+                "valor": 4348
+            },
+            {
+                "texto": "Busy",
+                "valor": 273
+            },
+            {
+                "texto": "Bad number",
+                "valor": 6197
+            },
+            {
+                "texto": "Pstn fail",
+                "valor": 3741
+            },
+            {
+                "texto": "Carrier message",
+                "valor": 2371
+            },
+            {
+                "texto": "Message box",
+                "valor": 6409
+            },
+            {
+                "texto": "DeniedCall",
+                "valor": 716
+            }
+        ]
+    },
+    {
+        "ani": "50364926",
+        "operadora": 13913,
+        "olos": 12237,
+        "totalQuantidade": 26150,
+        "totalLimite": 95000,
+        "porcentagemQuantidade": 27.0,
+        "porcentagemOlos": 12.0,
+        "porcentagemOperadora": 14.0,
+        "DateLastExecuting": "6/23/2022 3:46:54 PM",
+        "detalhes": [
+            {
+                "texto": "Aborted",
+                "valor": 33
+            },
+            {
+                "texto": "Normal applied",
+                "valor": 546
+            },
+            {
+                "texto": "Normal received",
+                "valor": 1624
+            },
+            {
+                "texto": "No answer",
+                "valor": 4242
+            },
+            {
+                "texto": "Busy",
+                "valor": 240
+            },
+            {
+                "texto": "Bad number",
+                "valor": 6052
+            },
+            {
+                "texto": "Pstn fail",
+                "valor": 3770
+            },
+            {
+                "texto": "Carrier message",
+                "valor": 2354
+            },
+            {
+                "texto": "Message box",
+                "valor": 6580
+            },
+            {
+                "texto": "DeniedCall",
+                "valor": 709
+            }
+        ]
+    },
+    {
+        "ani": "50364927",
+        "operadora": 14149,
+        "olos": 12428,
+        "totalQuantidade": 26577,
+        "totalLimite": 95000,
+        "porcentagemQuantidade": 27.0,
+        "porcentagemOlos": 13.0,
+        "porcentagemOperadora": 14.0,
+        "DateLastExecuting": "6/23/2022 3:46:54 PM",
+        "detalhes": [
+            {
+                "texto": "Aborted",
+                "valor": 22
+            },
+            {
+                "texto": "Normal applied",
+                "valor": 490
+            },
+            {
+                "texto": "Normal received",
+                "valor": 1720
+            },
+            {
+                "texto": "No answer",
+                "valor": 4487
+            },
+            {
+                "texto": "Busy",
+                "valor": 284
+            },
+            {
+                "texto": "Bad number",
+                "valor": 6256
+            },
+            {
+                "texto": "Pstn fail",
+                "valor": 3680
+            },
+            {
+                "texto": "Carrier message",
+                "valor": 2318
+            },
+            {
+                "texto": "Message box",
+                "valor": 6613
+            },
+            {
+                "texto": "DeniedCall",
+                "valor": 707
+            }
+        ]
+    },
+    {
+        "ani": "50364928",
+        "operadora": 13903,
+        "olos": 12009,
+        "totalQuantidade": 25912,
+        "totalLimite": 95000,
+        "porcentagemQuantidade": 27.0,
+        "porcentagemOlos": 12.0,
+        "porcentagemOperadora": 14.0,
+        "DateLastExecuting": "6/23/2022 3:46:54 PM",
+        "detalhes": [
+            {
+                "texto": "Aborted",
+                "valor": 34
+            },
+            {
+                "texto": "Normal applied",
+                "valor": 464
+            },
+            {
+                "texto": "Normal received",
+                "valor": 1698
+            },
+            {
+                "texto": "No answer",
+                "valor": 4238
+            },
+            {
+                "texto": "Busy",
+                "valor": 248
+            },
+            {
+                "texto": "Bad number",
+                "valor": 6185
+            },
+            {
+                "texto": "Pstn fail",
+                "valor": 3585
+            },
+            {
+                "texto": "Carrier message",
+                "valor": 2300
+            },
+            {
+                "texto": "Message box",
+                "valor": 6486
+            },
+            {
+                "texto": "DeniedCall",
+                "valor": 674
+            }
+        ]
+    },
+    {
+        "ani": "50364929",
+        "operadora": 14131,
+        "olos": 12208,
+        "totalQuantidade": 26339,
+        "totalLimite": 95000,
+        "porcentagemQuantidade": 27.0,
+        "porcentagemOlos": 12.0,
+        "porcentagemOperadora": 14.0,
+        "DateLastExecuting": "6/23/2022 3:46:54 PM",
+        "detalhes": [
+            {
+                "texto": "Aborted",
+                "valor": 23
+            },
+            {
+                "texto": "Normal applied",
+                "valor": 493
+            },
+            {
+                "texto": "Normal received",
+                "valor": 1696
+            },
+            {
+                "texto": "No answer",
+                "valor": 4316
+            },
+            {
+                "texto": "Busy",
+                "valor": 285
+            },
+            {
+                "texto": "Bad number",
+                "valor": 6247
+            },
+            {
+                "texto": "Pstn fail",
+                "valor": 3655
+            },
+            {
+                "texto": "Carrier message",
+                "valor": 2345
+            },
+            {
+                "texto": "Message box",
+                "valor": 6533
+            },
+            {
+                "texto": "DeniedCall",
+                "valor": 746
+            }
+        ]
+    },
+    {
+        "ani": "50364930",
+        "operadora": 13896,
+        "olos": 12057,
+        "totalQuantidade": 25953,
+        "totalLimite": 95000,
+        "porcentagemQuantidade": 27.0,
+        "porcentagemOlos": 12.0,
+        "porcentagemOperadora": 14.0,
+        "DateLastExecuting": "6/23/2022 3:46:54 PM",
+        "detalhes": [
+            {
+                "texto": "Aborted",
+                "valor": 28
+            },
+            {
+                "texto": "Normal applied",
+                "valor": 500
+            },
+            {
+                "texto": "Normal received",
+                "valor": 1652
+            },
+            {
+                "texto": "No answer",
+                "valor": 4296
+            },
+            {
+                "texto": "Busy",
+                "valor": 249
+            },
+            {
+                "texto": "Bad number",
+                "valor": 6103
+            },
+            {
+                "texto": "Pstn fail",
+                "valor": 3718
+            },
+            {
+                "texto": "Carrier message",
+                "valor": 2276
+            },
+            {
+                "texto": "Message box",
+                "valor": 6455
+            },
+            {
+                "texto": "DeniedCall",
+                "valor": 676
+            }
+        ]
+    },
+    {
+        "ani": "50364931",
+        "operadora": 13890,
+        "olos": 12285,
+        "totalQuantidade": 26175,
+        "totalLimite": 95000,
+        "porcentagemQuantidade": 27.0,
+        "porcentagemOlos": 12.0,
+        "porcentagemOperadora": 14.0,
+        "DateLastExecuting": "6/23/2022 3:46:54 PM",
+        "detalhes": [
+            {
+                "texto": "Aborted",
+                "valor": 20
+            },
+            {
+                "texto": "Normal applied",
+                "valor": 484
+            },
+            {
+                "texto": "Normal received",
+                "valor": 1700
+            },
+            {
+                "texto": "No answer",
+                "valor": 4392
+            },
+            {
+                "texto": "Busy",
+                "valor": 262
+            },
+            {
+                "texto": "Bad number",
+                "valor": 6130
+            },
+            {
+                "texto": "Pstn fail",
+                "valor": 3676
+            },
+            {
+                "texto": "Carrier message",
+                "valor": 2230
+            },
+            {
+                "texto": "Message box",
+                "valor": 6546
+            },
+            {
+                "texto": "DeniedCall",
+                "valor": 735
+            }
+        ]
+    },
+    {
+        "ani": "50364932",
+        "operadora": 14053,
+        "olos": 12140,
+        "totalQuantidade": 26193,
+        "totalLimite": 95000,
+        "porcentagemQuantidade": 27.0,
+        "porcentagemOlos": 12.0,
+        "porcentagemOperadora": 14.0,
+        "DateLastExecuting": "6/23/2022 3:46:54 PM",
+        "detalhes": [
+            {
+                "texto": "Aborted",
+                "valor": 21
+            },
+            {
+                "texto": "Normal applied",
+                "valor": 468
+            },
+            {
+                "texto": "Normal received",
+                "valor": 1683
+            },
+            {
+                "texto": "No answer",
+                "valor": 4430
+            },
+            {
+                "texto": "Busy",
+                "valor": 282
+            },
+            {
+                "texto": "Bad number",
+                "valor": 6239
+            },
+            {
+                "texto": "Pstn fail",
+                "valor": 3683
+            },
+            {
+                "texto": "Carrier message",
+                "valor": 2268
+            },
+            {
+                "texto": "Message box",
+                "valor": 6422
+            },
+            {
+                "texto": "Tear down",
+                "valor": 1
+            },
+            {
+                "texto": "DeniedCall",
+                "valor": 696
+            }
+        ]
+    },
+    {
+        "ani": "50364933",
+        "operadora": 14049,
+        "olos": 12365,
+        "totalQuantidade": 26414,
+        "totalLimite": 95000,
+        "porcentagemQuantidade": 27.0,
+        "porcentagemOlos": 13.0,
+        "porcentagemOperadora": 14.0,
+        "DateLastExecuting": "6/23/2022 3:46:54 PM",
+        "detalhes": [
+            {
+                "texto": "Aborted",
+                "valor": 36
+            },
+            {
+                "texto": "Normal applied",
+                "valor": 515
+            },
+            {
+                "texto": "Normal received",
+                "valor": 1701
+            },
+            {
+                "texto": "No answer",
+                "valor": 4476
+            },
+            {
+                "texto": "Busy",
+                "valor": 287
+            },
+            {
+                "texto": "Bad number",
+                "valor": 6246
+            },
+            {
+                "texto": "Pstn fail",
+                "valor": 3701
+            },
+            {
+                "texto": "Carrier message",
+                "valor": 2212
+            },
+            {
+                "texto": "Message box",
+                "valor": 6517
+            },
+            {
+                "texto": "DeniedCall",
+                "valor": 723
+            }
+        ]
+    },
+    {
+        "ani": "50364934",
+        "operadora": 13821,
+        "olos": 12129,
+        "totalQuantidade": 25950,
+        "totalLimite": 95000,
+        "porcentagemQuantidade": 27.0,
+        "porcentagemOlos": 12.0,
+        "porcentagemOperadora": 14.0,
+        "DateLastExecuting": "6/23/2022 3:46:54 PM",
+        "detalhes": [
+            {
+                "texto": "Aborted",
+                "valor": 22
+            },
+            {
+                "texto": "Normal applied",
+                "valor": 497
+            },
+            {
+                "texto": "Normal received",
+                "valor": 1629
+            },
+            {
+                "texto": "No answer",
+                "valor": 4433
+            },
+            {
+                "texto": "Busy",
+                "valor": 250
+            },
+            {
+                "texto": "Bad number",
+                "valor": 6142
+            },
+            {
+                "texto": "Pstn fail",
+                "valor": 3653
+            },
+            {
+                "texto": "Carrier message",
+                "valor": 2238
+            },
+            {
+                "texto": "Message box",
+                "valor": 6361
+            },
+            {
+                "texto": "DeniedCall",
+                "valor": 725
+            }
+        ]
+    },
+    {
+        "ani": "50364935",
+        "operadora": 13747,
+        "olos": 12268,
+        "totalQuantidade": 26015,
+        "totalLimite": 95000,
+        "porcentagemQuantidade": 27.0,
+        "porcentagemOlos": 12.0,
+        "porcentagemOperadora": 14.0,
+        "DateLastExecuting": "6/23/2022 3:46:54 PM",
+        "detalhes": [
+            {
+                "texto": "Aborted",
+                "valor": 35
+            },
+            {
+                "texto": "Normal applied",
+                "valor": 524
+            },
+            {
+                "texto": "Normal received",
+                "valor": 1613
+            },
+            {
+                "texto": "No answer",
+                "valor": 4370
+            },
+            {
+                "texto": "Busy",
+                "valor": 263
+            },
+            {
+                "texto": "Bad number",
+                "valor": 6070
+            },
+            {
+                "texto": "Pstn fail",
+                "valor": 3657
+            },
+            {
+                "texto": "Carrier message",
+                "valor": 2246
+            },
+            {
+                "texto": "Message box",
+                "valor": 6464
+            },
+            {
+                "texto": "DeniedCall",
+                "valor": 773
+            }
+        ]
+    },
+    {
+        "ani": "50364936",
+        "operadora": 13986,
+        "olos": 12038,
+        "totalQuantidade": 26024,
+        "totalLimite": 95000,
+        "porcentagemQuantidade": 27.0,
+        "porcentagemOlos": 12.0,
+        "porcentagemOperadora": 14.0,
+        "DateLastExecuting": "6/23/2022 3:46:54 PM",
+        "detalhes": [
+            {
+                "texto": "Aborted",
+                "valor": 25
+            },
+            {
+                "texto": "Normal applied",
+                "valor": 507
+            },
+            {
+                "texto": "Normal received",
+                "valor": 1631
+            },
+            {
+                "texto": "No answer",
+                "valor": 4341
+            },
+            {
+                "texto": "Busy",
+                "valor": 265
+            },
+            {
+                "texto": "Bad number",
+                "valor": 6257
+            },
+            {
+                "texto": "Pstn fail",
+                "valor": 3661
+            },
+            {
+                "texto": "Carrier message",
+                "valor": 2274
+            },
+            {
+                "texto": "Message box",
+                "valor": 6355
+            },
+            {
+                "texto": "DeniedCall",
+                "valor": 708
+            }
+        ]
+    },
+    {
+        "ani": "50364937",
+        "operadora": 13928,
+        "olos": 12240,
+        "totalQuantidade": 26168,
+        "totalLimite": 95000,
+        "porcentagemQuantidade": 27.0,
+        "porcentagemOlos": 12.0,
+        "porcentagemOperadora": 14.0,
+        "DateLastExecuting": "6/23/2022 3:46:54 PM",
+        "detalhes": [
+            {
+                "texto": "Aborted",
+                "valor": 33
+            },
+            {
+                "texto": "Normal applied",
+                "valor": 488
+            },
+            {
+                "texto": "Normal received",
+                "valor": 1717
+            },
+            {
+                "texto": "No answer",
+                "valor": 4399
+            },
+            {
+                "texto": "Busy",
+                "valor": 269
+            },
+            {
+                "texto": "Bad number",
+                "valor": 6127
+            },
+            {
+                "texto": "Pstn fail",
+                "valor": 3679
+            },
+            {
+                "texto": "Carrier message",
+                "valor": 2254
+            },
+            {
+                "texto": "Message box",
+                "valor": 6523
+            },
+            {
+                "texto": "DeniedCall",
+                "valor": 679
+            }
+        ]
+    },
+    {
+        "ani": "50364938",
+        "operadora": 14178,
+        "olos": 12422,
+        "totalQuantidade": 26600,
+        "totalLimite": 95000,
+        "porcentagemQuantidade": 28.0,
+        "porcentagemOlos": 13.0,
+        "porcentagemOperadora": 14.0,
+        "DateLastExecuting": "6/23/2022 3:46:54 PM",
+        "detalhes": [
+            {
+                "texto": "Aborted",
+                "valor": 34
+            },
+            {
+                "texto": "Normal applied",
+                "valor": 507
+            },
+            {
+                "texto": "Normal received",
+                "valor": 1703
+            },
+            {
+                "texto": "No answer",
+                "valor": 4497
+            },
+            {
+                "texto": "Busy",
+                "valor": 237
+            },
+            {
+                "texto": "Bad number",
+                "valor": 6209
+            },
+            {
+                "texto": "Pstn fail",
+                "valor": 3828
+            },
+            {
+                "texto": "Carrier message",
+                "valor": 2309
+            },
+            {
+                "texto": "Message box",
+                "valor": 6540
+            },
+            {
+                "texto": "DeniedCall",
+                "valor": 736
+            }
+        ]
+    },
+    {
+        "ani": "50364939",
+        "operadora": 13934,
+        "olos": 12079,
+        "totalQuantidade": 26013,
+        "totalLimite": 95000,
+        "porcentagemQuantidade": 27.0,
+        "porcentagemOlos": 12.0,
+        "porcentagemOperadora": 14.0,
+        "DateLastExecuting": "6/23/2022 3:46:54 PM",
+        "detalhes": [
+            {
+                "texto": "Aborted",
+                "valor": 29
+            },
+            {
+                "texto": "Normal applied",
+                "valor": 480
+            },
+            {
+                "texto": "Normal received",
+                "valor": 1641
+            },
+            {
+                "texto": "No answer",
+                "valor": 4338
+            },
+            {
+                "texto": "Busy",
+                "valor": 270
+            },
+            {
+                "texto": "Bad number",
+                "valor": 6202
+            },
+            {
+                "texto": "Pstn fail",
+                "valor": 3716
+            },
+            {
+                "texto": "Carrier message",
+                "valor": 2204
+            },
+            {
+                "texto": "Message box",
+                "valor": 6452
+            },
+            {
+                "texto": "DeniedCall",
+                "valor": 681
+            }
+        ]
+    },
+    {
+        "ani": "50364940",
+        "operadora": 14060,
+        "olos": 12097,
+        "totalQuantidade": 26157,
+        "totalLimite": 95000,
+        "porcentagemQuantidade": 27.0,
+        "porcentagemOlos": 12.0,
+        "porcentagemOperadora": 14.0,
+        "DateLastExecuting": "6/23/2022 3:46:54 PM",
+        "detalhes": [
+            {
+                "texto": "Aborted",
+                "valor": 37
+            },
+            {
+                "texto": "Normal applied",
+                "valor": 497
+            },
+            {
+                "texto": "Normal received",
+                "valor": 1620
+            },
+            {
+                "texto": "No answer",
+                "valor": 4247
+            },
+            {
+                "texto": "Busy",
+                "valor": 253
+            },
+            {
+                "texto": "Bad number",
+                "valor": 6326
+            },
+            {
+                "texto": "Pstn fail",
+                "valor": 3654
+            },
+            {
+                "texto": "Carrier message",
+                "valor": 2334
+            },
+            {
+                "texto": "Message box",
+                "valor": 6490
+            },
+            {
+                "texto": "DeniedCall",
+                "valor": 699
+            }
+        ]
+    },
+    {
+        "ani": "50364941",
+        "operadora": 14064,
+        "olos": 11993,
+        "totalQuantidade": 26057,
+        "totalLimite": 95000,
+        "porcentagemQuantidade": 27.0,
+        "porcentagemOlos": 12.0,
+        "porcentagemOperadora": 14.0,
+        "DateLastExecuting": "6/23/2022 3:46:54 PM",
+        "detalhes": [
+            {
+                "texto": "Aborted",
+                "valor": 32
+            },
+            {
+                "texto": "Normal applied",
+                "valor": 487
+            },
+            {
+                "texto": "Normal received",
+                "valor": 1650
+            },
+            {
+                "texto": "No answer",
+                "valor": 4313
+            },
+            {
+                "texto": "Busy",
+                "valor": 285
+            },
+            {
+                "texto": "Bad number",
+                "valor": 6287
+            },
+            {
+                "texto": "Pstn fail",
+                "valor": 3621
+            },
+            {
+                "texto": "Carrier message",
+                "valor": 2333
+            },
+            {
+                "texto": "Message box",
+                "valor": 6380
+            },
+            {
+                "texto": "DeniedCall",
+                "valor": 669
+            }
+        ]
+    },
+    {
+        "ani": "50364942",
+        "operadora": 13898,
+        "olos": 12038,
+        "totalQuantidade": 25936,
+        "totalLimite": 95000,
+        "porcentagemQuantidade": 27.0,
+        "porcentagemOlos": 12.0,
+        "porcentagemOperadora": 14.0,
+        "DateLastExecuting": "6/23/2022 3:46:54 PM",
+        "detalhes": [
+            {
+                "texto": "Aborted",
+                "valor": 43
+            },
+            {
+                "texto": "Normal applied",
+                "valor": 469
+            },
+            {
+                "texto": "Normal received",
+                "valor": 1748
+            },
+            {
+                "texto": "No answer",
+                "valor": 4303
+            },
+            {
+                "texto": "Busy",
+                "valor": 262
+            },
+            {
+                "texto": "Bad number",
+                "valor": 6110
+            },
+            {
+                "texto": "Pstn fail",
+                "valor": 3704
+            },
+            {
+                "texto": "Carrier message",
+                "valor": 2187
+            },
+            {
+                "texto": "Message box",
+                "valor": 6410
+            },
+            {
+                "texto": "DeniedCall",
+                "valor": 700
+            }
+        ]
+    },
+    {
+        "ani": "50364943",
+        "operadora": 13912,
+        "olos": 12307,
+        "totalQuantidade": 26219,
+        "totalLimite": 95000,
+        "porcentagemQuantidade": 27.0,
+        "porcentagemOlos": 12.0,
+        "porcentagemOperadora": 14.0,
+        "DateLastExecuting": "6/23/2022 3:46:54 PM",
+        "detalhes": [
+            {
+                "texto": "Aborted",
+                "valor": 34
+            },
+            {
+                "texto": "Normal applied",
+                "valor": 534
+            },
+            {
+                "texto": "Normal received",
+                "valor": 1672
+            },
+            {
+                "texto": "No answer",
+                "valor": 4509
+            },
+            {
+                "texto": "Busy",
+                "valor": 241
+            },
+            {
+                "texto": "Bad number",
+                "valor": 6229
+            },
+            {
+                "texto": "Pstn fail",
+                "valor": 3559
+            },
+            {
+                "texto": "Carrier message",
+                "valor": 2317
+            },
+            {
+                "texto": "Message box",
+                "valor": 6394
+            },
+            {
+                "texto": "DeniedCall",
+                "valor": 730
+            }
+        ]
+    },
+    {
+        "ani": "50364944",
+        "operadora": 14143,
+        "olos": 12244,
+        "totalQuantidade": 26387,
+        "totalLimite": 95000,
+        "porcentagemQuantidade": 27.0,
+        "porcentagemOlos": 12.0,
+        "porcentagemOperadora": 14.0,
+        "DateLastExecuting": "6/23/2022 3:46:54 PM",
+        "detalhes": [
+            {
+                "texto": "Aborted",
+                "valor": 21
+            },
+            {
+                "texto": "Normal applied",
+                "valor": 484
+            },
+            {
+                "texto": "Normal received",
+                "valor": 1711
+            },
+            {
+                "texto": "No answer",
+                "valor": 4383
+            },
+            {
+                "texto": "Busy",
+                "valor": 252
+            },
+            {
+                "texto": "Bad number",
+                "valor": 6181
+            },
+            {
+                "texto": "Pstn fail",
+                "valor": 3713
+            },
+            {
+                "texto": "Carrier message",
+                "valor": 2397
+            },
+            {
+                "texto": "Message box",
+                "valor": 6553
+            },
+            {
+                "texto": "DeniedCall",
+                "valor": 692
+            }
+        ]
+    },
+    {
+        "ani": "50364945",
+        "operadora": 13946,
+        "olos": 11930,
+        "totalQuantidade": 25876,
+        "totalLimite": 95000,
+        "porcentagemQuantidade": 27.0,
+        "porcentagemOlos": 12.0,
+        "porcentagemOperadora": 14.0,
+        "DateLastExecuting": "6/23/2022 3:46:54 PM",
+        "detalhes": [
+            {
+                "texto": "Aborted",
+                "valor": 33
+            },
+            {
+                "texto": "Normal applied",
+                "valor": 496
+            },
+            {
+                "texto": "Normal received",
+                "valor": 1720
+            },
+            {
+                "texto": "No answer",
+                "valor": 4278
+            },
+            {
+                "texto": "Busy",
+                "valor": 276
+            },
+            {
+                "texto": "Bad number",
+                "valor": 6196
+            },
+            {
+                "texto": "Pstn fail",
+                "valor": 3651
+            },
+            {
+                "texto": "Carrier message",
+                "valor": 2175
+            },
+            {
+                "texto": "Message box",
+                "valor": 6337
+            },
+            {
+                "texto": "DeniedCall",
+                "valor": 714
+            }
+        ]
+    },
+    {
+        "ani": "50364946",
+        "operadora": 13914,
+        "olos": 12099,
+        "totalQuantidade": 26013,
+        "totalLimite": 95000,
+        "porcentagemQuantidade": 27.0,
+        "porcentagemOlos": 12.0,
+        "porcentagemOperadora": 14.0,
+        "DateLastExecuting": "6/23/2022 3:46:54 PM",
+        "detalhes": [
+            {
+                "texto": "Aborted",
+                "valor": 28
+            },
+            {
+                "texto": "Normal applied",
+                "valor": 492
+            },
+            {
+                "texto": "Normal received",
+                "valor": 1645
+            },
+            {
+                "texto": "No answer",
+                "valor": 4352
+            },
+            {
+                "texto": "Busy",
+                "valor": 260
+            },
+            {
+                "texto": "Bad number",
+                "valor": 6183
+            },
+            {
+                "texto": "Pstn fail",
+                "valor": 3676
+            },
+            {
+                "texto": "Carrier message",
+                "valor": 2270
+            },
+            {
+                "texto": "Message box",
+                "valor": 6403
+            },
+            {
+                "texto": "DeniedCall",
+                "valor": 704
+            }
+        ]
+    },
+    {
+        "ani": "50364947",
+        "operadora": 14293,
+        "olos": 12212,
+        "totalQuantidade": 26505,
+        "totalLimite": 95000,
+        "porcentagemQuantidade": 27.0,
+        "porcentagemOlos": 12.0,
+        "porcentagemOperadora": 15.0,
+        "DateLastExecuting": "6/23/2022 3:46:54 PM",
+        "detalhes": [
+            {
+                "texto": "Aborted",
+                "valor": 23
+            },
+            {
+                "texto": "Normal applied",
+                "valor": 454
+            },
+            {
+                "texto": "Normal received",
+                "valor": 1804
+            },
+            {
+                "texto": "No answer",
+                "valor": 4393
+            },
+            {
+                "texto": "Busy",
+                "valor": 229
+            },
+            {
+                "texto": "Bad number",
+                "valor": 6391
+            },
+            {
+                "texto": "Pstn fail",
+                "valor": 3710
+            },
+            {
+                "texto": "Carrier message",
+                "valor": 2271
+            },
+            {
+                "texto": "Message box",
+                "valor": 6554
+            },
+            {
+                "texto": "DeniedCall",
+                "valor": 676
+            }
+        ]
+    },
+    {
+        "ani": "50364948",
+        "operadora": 13890,
+        "olos": 12079,
+        "totalQuantidade": 25969,
+        "totalLimite": 95000,
+        "porcentagemQuantidade": 27.0,
+        "porcentagemOlos": 12.0,
+        "porcentagemOperadora": 14.0,
+        "DateLastExecuting": "6/23/2022 3:46:54 PM",
+        "detalhes": [
+            {
+                "texto": "Aborted",
+                "valor": 29
+            },
+            {
+                "texto": "Normal applied",
+                "valor": 435
+            },
+            {
+                "texto": "Normal received",
+                "valor": 1677
+            },
+            {
+                "texto": "No answer",
+                "valor": 4345
+            },
+            {
+                "texto": "Busy",
+                "valor": 273
+            },
+            {
+                "texto": "Bad number",
+                "valor": 6198
+            },
+            {
+                "texto": "Pstn fail",
+                "valor": 3603
+            },
+            {
+                "texto": "Carrier message",
+                "valor": 2260
+            },
+            {
+                "texto": "Message box",
+                "valor": 6457
+            },
+            {
+                "texto": "DeniedCall",
+                "valor": 692
+            }
+        ]
+    },
+    {
+        "ani": "50364949",
+        "operadora": 13951,
+        "olos": 12460,
+        "totalQuantidade": 26411,
+        "totalLimite": 95000,
+        "porcentagemQuantidade": 27.0,
+        "porcentagemOlos": 13.0,
+        "porcentagemOperadora": 14.0,
+        "DateLastExecuting": "6/23/2022 3:46:54 PM",
+        "detalhes": [
+            {
+                "texto": "Aborted",
+                "valor": 37
+            },
+            {
+                "texto": "Normal applied",
+                "valor": 527
+            },
+            {
+                "texto": "Normal received",
+                "valor": 1727
+            },
+            {
+                "texto": "No answer",
+                "valor": 4429
+            },
+            {
+                "texto": "Busy",
+                "valor": 242
+            },
+            {
+                "texto": "Bad number",
+                "valor": 6217
+            },
+            {
+                "texto": "Pstn fail",
+                "valor": 3642
+            },
+            {
+                "texto": "Carrier message",
+                "valor": 2219
+            },
+            {
+                "texto": "Message box",
+                "valor": 6660
+            },
+            {
+                "texto": "DeniedCall",
+                "valor": 711
+            }
+        ]
+    },
+    {
+        "ani": "00",
+        "operadora": 247,
+        "olos": 399,
+        "totalQuantidade": 646,
+        "totalLimite": 95000,
+        "porcentagemQuantidade": 0.0,
+        "porcentagemOlos": 0.0,
+        "porcentagemOperadora": 0.0,
+        "DateLastExecuting": "6/23/2022 3:46:54 PM",
+        "detalhes": [
+            {
+                "texto": "Aborted",
+                "valor": 3
+            },
+            {
+                "texto": "Normal applied",
+                "valor": 2
+            },
+            {
+                "texto": "Normal received",
+                "valor": 41
+            },
+            {
+                "texto": "No answer",
+                "valor": 146
+            },
+            {
+                "texto": "Busy",
+                "valor": 13
+            },
+            {
+                "texto": "Bad number",
+                "valor": 64
+            },
+            {
+                "texto": "Bad connect",
+                "valor": 2
+            },
+            {
+                "texto": "Pstn fail",
+                "valor": 52
+            },
+            {
+                "texto": "Carrier message",
+                "valor": 109
+            },
+            {
+                "texto": "Message box",
+                "valor": 157
+            },
+            {
+                "texto": "Answering machine",
+                "valor": 9
+            },
+            {
+                "texto": "Unknown audio source",
+                "valor": 2
+            },
+            {
+                "texto": "Silence",
+                "valor": 46
+            }
+        ]
+    },
+    {
+        "ani": "0000",
+        "operadora": 18916,
+        "olos": 27066,
+        "totalQuantidade": 45982,
+        "totalLimite": 95000,
+        "porcentagemQuantidade": 48.0,
+        "porcentagemOlos": 28.0,
+        "porcentagemOperadora": 19.0,
+        "DateLastExecuting": "6/23/2022 3:46:54 PM",
+        "detalhes": [
+            {
+                "texto": "Aborted",
+                "valor": 102
+            },
+            {
+                "texto": "Normal applied",
+                "valor": 720
+            },
+            {
+                "texto": "Normal received",
+                "valor": 4075
+            },
+            {
+                "texto": "No answer",
+                "valor": 9916
+            },
+            {
+                "texto": "Busy",
+                "valor": 855
+            },
+            {
+                "texto": "Bad number",
+                "valor": 4593
+            },
+            {
+                "texto": "Bad connect",
+                "valor": 353
+            },
+            {
+                "texto": "Pstn fail",
+                "valor": 4203
+            },
+            {
+                "texto": "Carrier message",
+                "valor": 6651
+            },
+            {
+                "texto": "Message box",
+                "valor": 10293
+            },
+            {
+                "texto": "Answering machine",
+                "valor": 903
+            },
+            {
+                "texto": "Unknown audio source",
+                "valor": 92
+            },
+            {
+                "texto": "Fax",
+                "valor": 14
+            },
+            {
+                "texto": "Silence",
+                "valor": 3212
+            }
+        ]
+    }
+]
