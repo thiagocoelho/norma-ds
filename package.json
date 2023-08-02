@@ -1,7 +1,7 @@
 {
   "name": "@olostecnologia/norma-ds",
   "description": "Olos/Norma-DS. A React UI kit based Material UI",
-  "version": "0.1.0",
+  "version": "0.0.1",
   "homepage": "norma",
   "private": true,
   "dependencies": {
