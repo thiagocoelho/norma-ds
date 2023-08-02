@@ -2,6 +2,7 @@
   "name": "@olostecnologia/norma-ds",
   "description": "Olos/Norma-DS. A React UI kit based Material UI",
   "version": "0.1.0",
+  "homepage": "norma",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.10.4",
@@ -25,6 +26,7 @@
     "i18next": "^23.2.11",
     "i18next-browser-languagedetector": "^7.1.0",
     "i18next-http-backend": "^2.2.1",
+    "np": "^8.0.4",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-i18next": "^13.0.2",
@@ -35,6 +37,12 @@
     "web-vitals": "^2.1.4",
     "xml2js": "^0.6.0"
   },
+  "files": [
+    "lib"
+  ],
+  "engines": {
+    "node": ">=16 <17"
+  },
   "scripts": {
     "start": "react-scripts start --no-manager-cache -p 7000",
     "build": "react-scripts build",
@@ -43,6 +51,12 @@
     "icons": "node ./scripts/generate-svg-icons.js",
     "extract-svg": "node ./scripts/extractSVG.js",
     "storybook": "storybook dev -p 6007",
+    "build-lib": "export NODE_ENV=development && export NODE_OPTIONS=--max_old_space_size=8192 && yarn post-build-lib && cp ./README.md lib/",
+    "post-build-lib": "yarn gen-lib-package && yarn gen-lib-index",
+    "gen-lib-index": "node ./scripts/generate-lib-index.js",
+    "gen-lib-package": "node ./scripts/generate-lib-package.js",
+    "transfer-lib": "rsync -avz --delete --exclude .git --exclude README.md lib/* $npm_config_deploy_lib_path",
+    "deploy-lib": "yarn build-lib && yarn transfer-lib",
     "build-storybook": "storybook build"
   },
   "eslintConfig": {
@@ -103,5 +117,8 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/oloslive/norma-ds.git"
+  },
+  "publishConfig": {
+    "access": "public"
   }
 }

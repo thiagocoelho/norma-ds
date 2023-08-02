@@ -1,0 +1,10 @@
+{
+  "name": "@olostecnologia/norma-ds",
+  "description": "Olos/Norma-DS. A React UI kit based Material UI",
+  "version": "0.1.0",
+  "private": true,
+  "publishConfig": {
+    "access": "public"
+  },
+  "module": "index.js"
+}
